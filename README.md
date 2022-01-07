@@ -2,7 +2,7 @@
 
 This project shows how to establish a data dashboard with Electron.js and Flexmonster Pivot Table & Charts.
 
-This approach can be used for building a business intelligence solution.
+
 
 
 
@@ -16,6 +16,6 @@ Run the following commands from the console:
 
 `npm start`
 
-Enjoy the interactive reporting tool!
+That's It!
 
 ![Flexmonster Pivot Table & Charts Dashboard](https://www.flexmonster.com/fm_uploads/2020/08/FMElectronJSDashboard.gif)
