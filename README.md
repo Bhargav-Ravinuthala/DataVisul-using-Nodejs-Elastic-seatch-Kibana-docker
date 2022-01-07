@@ -4,11 +4,9 @@ This project shows how to establish a data dashboard with Electron.js and Flexmo
 
 This approach can be used for building a business intelligence solution.
 
-# Data
 
-The `/data` folder contains the [World University Rankings](https://www.kaggle.com/mylesoneill/world-university-rankings) dataset.
 
-You can place your data in this folder and connect it to the pivot table and pivot charts by changing their reports configurations.
+We can place your data in this folder and connect it to the pivot table and pivot charts by changing their reports configurations.
 
 # How to run the project
 
